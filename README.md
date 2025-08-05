@@ -1,6 +1,8 @@
 # PaperRegister
 
-PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical Register Indexing (*The code is currently being organized, and the final version of the code is planned to be completed after the paper is officially published*)
+PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical Register Indexing 
+
+(*The code is currently being organized, and the final version of the code is planned to be completed after the paper is officially published*)
 
 ![](utils/method.PNG)
 
