@@ -1,0 +1,402 @@
+{
+    "Algorithm Innovation": {
+        "1 Problem": {
+            "1.1 Task Description": [
+                {
+                    "node_name": "Task Flow",
+                    "node_desc": "Overall description of the task, including input/output data flow",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Research Value",
+                    "node_desc": "The value of studying this task for domain development or practical applications",
+                    "node_value": ""
+                }
+            ],
+            "1.2 Motivation": [
+                {
+                    "node_name": "Defects in Existing Work",
+                    "node_desc": "What are the shortcomings of previous related work on this task",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Objectives of This Work",
+                    "node_desc": "What goals can this paper achieve for this task",
+                    "node_value": ""
+                }
+            ]
+        },
+        "2 Method": {
+            "2.1 Core Innovation": [
+                {
+                    "node_name": "Inspiration Source",
+                    "node_desc": "What inspiration or revelation led to the algorithm in this paper",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Core Improvement",
+                    "node_desc": "What is the core improvement of this algorithm compared to previous methods",
+                    "node_value": ""
+                }
+            ],
+            "2.2 Implementation Details": [
+                {
+                    "node_name": "Algorithm Components",
+                    "node_desc": "What existing components are used in this algorithm",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Implementation Process",
+                    "node_desc": "What is the complete implementation process of this algorithm",
+                    "node_value": ""
+                }
+            ]
+        },
+        "3 Experiment": {
+            "3.1 Experimental Design": [
+                {
+                    "node_name": "Baseline Methods",
+                    "node_desc": "Which baseline methods were selected for the experiments",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Experimental Datasets",
+                    "node_desc": "Test datasets and evaluation metrics used in the experiments",
+                    "node_value": ""
+                }
+            ],
+            "3.2 Result Analysis": [
+                {
+                    "node_name": "Main Conclusions",
+                    "node_desc": "Main conclusions and findings from the experiments",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Analytical Conclusions",
+                    "node_desc": "Conclusions drawn from other analytical experiments or case studies",
+                    "node_value": ""
+                }
+            ]
+        }
+    },
+    "Benchmark Construction": {
+        "1 Problem": {
+            "1.1 Task Description": [
+                {
+                    "node_name": "Task Flow",
+                    "node_desc": "Input/output and data flow of the task in the benchmark",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Research Value",
+                    "node_desc": "The value of studying this task for domain development or practical applications",
+                    "node_value": ""
+                }
+            ],
+            "1.2 Motivation": [
+                {
+                    "node_name": "Defects in Existing Benchmarks",
+                    "node_desc": "Various shortcomings of previous benchmarks",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Objectives of New Benchmark",
+                    "node_desc": "What goals this benchmark aims to achieve",
+                    "node_value": ""
+                }
+            ]
+        },
+        "2 Method": {
+            "2.1 Construction Method": [
+                {
+                    "node_name": "Data Sources",
+                    "node_desc": "Sources and scope of data collection for building the benchmark",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Annotation Scheme",
+                    "node_desc": "How raw data is cleaned and annotated",
+                    "node_value": ""
+                }
+            ],
+            "2.2 Evaluation System": [
+                {
+                    "node_name": "Evaluation Dimensions",
+                    "node_desc": "Dimensions for evaluating a system using this benchmark",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Evaluation Metrics",
+                    "node_desc": "Specific evaluation metrics and calculation methods for this benchmark",
+                    "node_value": ""
+                }
+            ]
+        },
+        "3 Experiment": {
+            "3.1 Experimental Design": [
+                {
+                    "node_name": "Selected Methods for Testing",
+                    "node_desc": "Which existing methods were tested using this benchmark",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Experimental Settings",
+                    "node_desc": "Specific settings for the testing",
+                    "node_value": ""
+                }
+            ],
+            "3.2 Result Analysis": [
+                {
+                    "node_name": "Main Conclusions",
+                    "node_desc": "Main conclusions drawn from testing with this benchmark",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Analytical Conclusions",
+                    "node_desc": "Conclusions drawn from other analytical experiments or case studies",
+                    "node_value": ""
+                }
+            ]
+        }
+    },
+    "Mechanism Exploration": {
+        "1 Problem": {
+            "1.1 Research Subject": [
+                {
+                    "node_name": "Scientific Problem",
+                    "node_desc": "What is the problem this work aims to explore",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Research Value",
+                    "node_desc": "What is the importance of exploring this problem",
+                    "node_value": ""
+                }
+            ],
+            "1.2 Motivation": [
+                {
+                    "node_name": "Defects in Existing Work",
+                    "node_desc": "What limitations exist in previous exploration work",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Objectives of This Work",
+                    "node_desc": "What conclusions or goals this paper expects to achieve",
+                    "node_value": ""
+                }
+            ]
+        },
+        "2 Method": {
+            "2.1 Practical Exploration": [
+                {
+                    "node_name": "Components",
+                    "node_desc": "What existing methods, data, or models are used in the exploration process",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Implementation Process",
+                    "node_desc": "What process is used to achieve the exploration objectives of this work",
+                    "node_value": ""
+                }
+            ],
+            "2.2 Theoretical Derivation": [
+                {
+                    "node_name": "Fundamental Theories",
+                    "node_desc": "What fundamental theories underlie this derivation process",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Derivation Process",
+                    "node_desc": "Specific process of theoretical derivation",
+                    "node_value": ""
+                }
+            ]
+        },
+        "3 Experiment": {
+            "3.1 Conclusion Presentation": [
+                {
+                    "node_name": "Exploration Conclusions",
+                    "node_desc": "Main conclusions drawn about the explored problem in the paper",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Supporting Evidence",
+                    "node_desc": "Specific evidence supporting these conclusions",
+                    "node_value": ""
+                }
+            ],
+            "3.2 Guidance": [
+                {
+                    "node_name": "Technical Improvement Directions",
+                    "node_desc": "Recommendations for technical development based on the paper's conclusions",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Other Discussions",
+                    "node_desc": "Other discussions and suggestions for research in this field",
+                    "node_value": ""
+                }
+            ]
+        }
+    },
+    "Survey and Review": {
+        "1 Overview": {
+            "1.1 Field Status": [
+                {
+                    "node_name": "Research Scope",
+                    "node_desc": "Boundaries and temporal coverage of the research field in this review",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Development Context",
+                    "node_desc": "Key developmental stages and milestone events in the field",
+                    "node_value": ""
+                }
+            ],
+            "1.2 Motivation": [
+                {
+                    "node_name": "Existing Review Limitations",
+                    "node_desc": "Deficiencies in coverage or analytical depth of previous related reviews",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Review Objectives",
+                    "node_desc": "Systematic cognitive improvement goals this paper aims to achieve",
+                    "node_value": ""
+                }
+            ]
+        },
+        "2 Taxonomy": {
+            "2.1 Classification System": [
+                {
+                    "node_name": "Classification Dimensions",
+                    "node_desc": "Core dimensions for constructing the research classification system in the field",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Typical Methods",
+                    "node_desc": "Representative methods and their characteristics under each classification dimension",
+                    "node_value": ""
+                }
+            ],
+            "2.2 Key Issue Analysis": [
+                {
+                    "node_name": "Technical Challenges",
+                    "node_desc": "Core technical challenges facing the field's development",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Methodological Limitations",
+                    "node_desc": "Analysis of common defects at the methodological level",
+                    "node_value": ""
+                }
+            ]
+        },
+        "3 Future Directions": {
+            "3.1 Trend Prediction": [
+                {
+                    "node_name": "Technology Evolution Path",
+                    "node_desc": "Future development directions predicted based on current progress",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Cross-domain Opportunities",
+                    "node_desc": "New opportunities arising from interdisciplinary collaboration",
+                    "node_value": ""
+                }
+            ],
+            "3.2 Research Recommendations": [
+                {
+                    "node_name": "Breakthrough Directions",
+                    "node_desc": "Key research directions recommended for priority breakthroughs",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Evaluation Framework",
+                    "node_desc": "Proposed new evaluation framework for future research",
+                    "node_value": ""
+                }
+            ]
+        }
+    },
+    "Theory Proof": {
+        "1 Problem": {
+            "1.1 Theoretical Problem": [
+                {
+                    "node_name": "Mathematical Formulation",
+                    "node_desc": "Transforming the research problem into formal mathematical expressions",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Research Value",
+                    "node_desc": "Significance of solving this theoretical problem for disciplinary development",
+                    "node_value": ""
+                }
+            ],
+            "1.2 Motivation": [
+                {
+                    "node_name": "Theoretical Deficiencies",
+                    "node_desc": "Existing loopholes or incompleteness in current theoretical systems",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Proof Objectives",
+                    "node_desc": "Core theorems or corollaries this paper aims to prove",
+                    "node_value": ""
+                }
+            ]
+        },
+        "2 Framework": {
+            "2.1 Theoretical Construction": [
+                {
+                    "node_name": "Fundamental Axioms",
+                    "node_desc": "Basic assumptions or axioms underlying the theoretical system",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Conceptual System",
+                    "node_desc": "Core concepts and their relationships required for theory construction",
+                    "node_value": ""
+                }
+            ],
+            "2.2 Proof Techniques": [
+                {
+                    "node_name": "Proof Tools",
+                    "node_desc": "Main mathematical tools and proof techniques employed",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Innovative Methods",
+                    "node_desc": "Novel methodological innovations in proof proposed in this paper",
+                    "node_value": ""
+                }
+            ]
+        },
+        "3 Validation": {
+            "3.1 Rigorous Proof": [
+                {
+                    "node_name": "Proof Process",
+                    "node_desc": "Complete derivation chain from premises to conclusions",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Boundary Conditions",
+                    "node_desc": "Analysis of specific conditions under which the theory holds",
+                    "node_value": ""
+                }
+            ],
+            "3.2 Application Validation": [
+                {
+                    "node_name": "Case Validation",
+                    "node_desc": "Verification of theory's applicability through typical cases",
+                    "node_value": ""
+                },
+                {
+                    "node_name": "Extended Applications",
+                    "node_desc": "Potential extension applications of the theory to other scenarios",
+                    "node_value": ""
+                }
+            ]
+        }
+    }
+}
