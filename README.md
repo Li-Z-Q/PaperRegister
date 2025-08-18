@@ -2,6 +2,8 @@
 
 PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical Register Indexing 
 
+https://huggingface.co/papers/2508.11116
+
 (*The code is currently being organized, and the final version of the code is planned to be completed after the paper is officially published*)
 
 ![](utils/method.PNG)
